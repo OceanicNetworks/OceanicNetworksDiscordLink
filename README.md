@@ -18,7 +18,7 @@ The reason this information is saved, is for addons within our Garry's Mod Serve
 
 The purpose of this website, is to link users steam and discord accounts together.
 
-3. NONE OF THE INFORMATION SHARED IN THE DATABASE WILL BE SHARED.
+3. NONE OF THE INFORMATION SAVED IN THE DATABASE WILL BE SHARED TO ANY PERSON.
 
 4. Below is a picture of what we store, and an example of a user being in the database.
 
